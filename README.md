@@ -1,2 +1,2 @@
 # GeneticAlgorithmBots
-![img](/attachments/download1.png)
+![img](/attachments/download.png)
